@@ -6,13 +6,15 @@ split_train_test.py: small script to split a multinomial directory dataset into 
 Staarting dir structure should be as follows:
 
 dataset
- >subdir1
- >subdir2
+ --subdir1
+ --subdir2
  
  
  Script will create
-  >dataset
-  ....
-  >val
-    >subdir1
-    >subdir2
+  dataset
+   --subdir1
+   --subdir2
+   --....
+   --val
+    ---subdir1
+    ---subdir2
