@@ -13,8 +13,9 @@ dataset_dir
  
   split_train_test.py
  
- 
- Script will create
+
+Script will create
+  
   dataset_dir
   
    --subdir1
@@ -28,5 +29,5 @@ dataset_dir
     ---subdir1
     
     ---subdir2
-  s
-  plit_train_test.py
+    
+  split_train_test.py
