@@ -6,8 +6,8 @@ split_train_test.py: small script to split a multinomial directory dataset into 
 Starting dir structure should be as follows:
 
 dataset
- --subdir1
- --subdir2
+  --subdir1
+  --subdir2
  split_train_test.py
  
  
